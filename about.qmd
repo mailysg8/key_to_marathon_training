@@ -4,16 +4,19 @@ image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/mailysg8/key_to_marathon_training
 
 ---
 
-About this blog
+With the New Year often comes the desire to improve your wellbeing, which for many people means running a marathon. 
+
+However, almost as important as the marathon itself is the extensive preparation that comes before. How you train can make a big difference in your performance, which is why finding the right training method is key. There exist many different training programs that vary in duration and intensity, yet many claim to be the best way to improve performance for all runners. Two methods which have shown promising results are the pyramidal and polarised methods. The pyramidal method emphasizes low and moderate intensity training, focusing mainly on doing longer and slower sessions to help build endurance and maintain a steady pace. In contrast, the polarised method focuses on switching between low and high intensity training, alternating between long, easy sessions and shorter, faster ones to help improve speed.
+
+In a 2025 research article published in Nature Scientific Reports (reference), the authors explored how different training approaches affected marathon performance and whether one approach could be recommended for all. They assembled 120 participants who trained for 16 weeks following either a pyramidal or polarised training plan, while collecting data such as training habits, fitness levels, heart rate. They used this data to predict an athlete's marathon performance improvement as well as which training approach works best for that individual.
+
+The study found that on average, athletes who followed the polarised training method improved more than those who followed the pyramidal approach. However, what worked best was different from runner to runner. Indeed, when comparing the individual results, we see that the number of runners who benefitted was the same for both training methods. The study also showed that experience and fitness level are the most important factors to determine which training method works best. In fact, it was found that experienced runners tended to benefit  more from the polarised approach compared to novice athletes who tended to benefit more from the pyramidal approach. 
+
+In conclusion, this study shows that there isn't a single training method that is best for everyone. Instead, understanding personal factors like experience or fitness levels is the key to finding the training method that will help optimise marathon performance the most. Hence, when choosing a marathon training method it's better to choose one that fits your own needs, rather than what works for everyone else.
+
